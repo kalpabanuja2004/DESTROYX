@@ -58,8 +58,8 @@ RUN axel https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_l
 #RUN mkdir /root/userbot/bin/
 #WORKDIR /root/userbot/
 #RUN chmod +x /usr/local/bin/*
-RUN wget https://raw.githubusercontent.com/CRIMINAL786/DESTROYX/main/sh1vamrun.py
-RUN wget https://raw.githubusercontent.com/CRIMINAL786/DESTROYX/main/requirements.txt
+RUN wget https://raw.githubusercontent.com/kalpabanuja2004/DESTROYX/main/sh1vamrun.py
+RUN wget https://raw.githubusercontent.com/kalpabanuja2004/DESTROYX/main/requirements.txt
 RUN pip3 install -r requirements.txt
 #CMD ["python3","-m","userbot"]
 CMD ["python3","sh1vamrun.py"]
