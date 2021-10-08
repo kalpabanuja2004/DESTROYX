@@ -11,7 +11,7 @@ print("
 
 
 print("t ==> Telethon (docs.telethon.dev) FsaaD Ki JaaD ")
-print("Telethon UseRBot ==> https://github.com/CRIMINAL786/DESTROYX")
+print("Telethon UseRBot ==> https://github.com/kalpabanuja2004/DESTROYX")
 
 
 def DESTROYX():
