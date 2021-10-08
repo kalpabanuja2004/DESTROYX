@@ -23,6 +23,6 @@ apt-get update
 apt-get upgrade -y
 pkg upgrade -y
 pkg install python wget -y
-wget https://raw.githubusercontent.com/CRIMINAL786/DESTROYX/main/telesetup.py
+wget https://raw.githubusercontent.com/kalpabanuja2004/DESTROYX/main/telesetup.py
 pip install telethon
 python telesetup.py
